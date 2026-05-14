@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with best Workflow for Alfred for macOS - file-encryption and automated-tasks, the #1 workflow. Includes file-encryption and automated-tasks for a
 
 
 
